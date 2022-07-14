@@ -43,8 +43,8 @@ Australia
 
 North America
 -----
-Aggregation - The Oz Report: [https://ozreport.com/hgdealers.php](https://ozreport.com/hgdealers.php)
-Aggregation - USHPA instructor and school web site: [https://www.ushpa.org/page/find-a-school-or-instructor?hkey=e8906391-20f5-49cc-9c92-3cf259f22276](https://www.ushpa.org/page/find-a-school-or-instructor?hkey=e8906391-20f5-49cc-9c92-3cf259f22276)
+Aggregation - The Oz Report: [https://ozreport.com/hgdealers.php](https://ozreport.com/hgdealers.php)  
+Aggregation - USHPA instructor and school web site: [https://www.ushpa.org/page/find-a-school-or-instructor?hkey=e8906391-20f5-49cc-9c92-3cf259f22276](https://www.ushpa.org/page/find-a-school-or-instructor?hkey=e8906391-20f5-49cc-9c92-3cf259f22276)  
 
 South America
 -----
