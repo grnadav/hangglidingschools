@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width: auto;
+  margin: auto auto;
+}
+
+header, footer {
+  position: inherit;
+}
+
+section {
+  width: auto;
+}
+
