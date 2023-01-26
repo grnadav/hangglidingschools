@@ -11,6 +11,7 @@ Europe
 | LinkingWings                      | dirk@linkingwings.de          | [http://www.linkingwings.de/ausbildung/drachenfliegerausbildung.html](http://www.linkingwings.de/ausbildung/drachenfliegerausbildung.html)   | Germany                    | ?                                             | yes         | ?             | English, German         |                                             |
 | Papillon                          | info@papillon.de              | [https://papillon.de/haengegleiter-kombikurs/](https://papillon.de/haengegleiter-kombikurs/)                                                 | Germany                    | ?                                             | yes         | ?             | English, German         |                                             |
 | Flugschule Saar Mosel             | paul@flugschule-saar-mosel.de | [https://www.flugschule-saar-mosel.de/termine/](https://www.flugschule-saar-mosel.de/termine/)                                               | Germany                    | ?                                             | yes         | ?             | English, German         |                                             |
+| Drachenflugzentrum Millau         | flugschule@cabrieres.net      | [https://drachenflugzentrum-millau.de/](https://drachenflugzentrum-millau.de/)                                                               | Germany                    | March-September                               | yes         | ?             | English, German         |                                             |
 | Deltavliegschool Trike Valley     | tom@trike-valley.be           | [https://www.trike-valley.be/](https://www.trike-valley.be/)                                                                                 | Belgium (Benelux) & Alps   | ?                                             | yes         | yes           | ?                       |                                             |
 | Zenith Aventura                   | info@zenithaventura.com       | [https://www.zenithaventura.com/en/hang-gliding/hang-gliding-courses/](https://www.zenithaventura.com/en/hang-gliding/hang-gliding-courses/) | Spain (Ager l, Catalunya)  | ?                                             | yes         | no            | English, Spanish        |                                             |
 | Juaki Air & Adventure             | aladelta@feada.org            | [https://juakiair.es/](https://juakiair.es/)                                                                                                 | Spain                      | ?                                             | yes         | no            | English, Spanish        |                                             |
@@ -31,7 +32,8 @@ Europe
 | Lejair                            | yamishor@hotmail.com          | [http://www.lejair.co.uk/](http://www.lejair.co.uk/)                                                                                           | UK                         | ?                                             | yes         | ?             | English                 |                                             |
 
 
-
+## Other lists - 
+* UK, some Europe, a few US - [http://hanggliding.co.uk/where/](http://hanggliding.co.uk/where/)
 
 Maybe? (broken sites, not up to date)
 - [https://www.ladeltisterie.com/](https://www.ladeltisterie.com/)
