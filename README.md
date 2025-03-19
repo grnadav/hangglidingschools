@@ -1,5 +1,8 @@
 # Hang gliding schools
 
+This page: 
+[https://grnadav.github.io/hangglidingschools](https://grnadav.github.io/hangglidingschools)
+
 Europe
 -----
 
@@ -38,6 +41,7 @@ Europe
 | Aerosports                                    | ken@aerosports.co.uk                 | [https://aerosports.co.uk/hanggliding-root/courses/](https://aerosports.co.uk/hanggliding-root/courses/)                                     | UK                                    | ?                                             | yes           | ?               | English                 |                                               |
 | Lejair                                        | yamishor@hotmail.com                 | [http://www.lejair.co.uk/](http://www.lejair.co.uk/)                                                                                         | UK                                    | ?                                             | yes           | ?               | English                 |                                               |
 | Randon Aero                                   | info@deltavliegschool.com            | [https://www.deltavliegschool.com/](https://www.deltavliegschool.com/)                                                                       | Netherlands                           | ?                                             | yes (offsite) | yes             | English                 |                                               |      
+| Rogalo                              | info@rogalo.cz                       | [https://www.rogalo.cz/](https://www.rogalo.cz/) | Czech Republic                                                                   | Feb-Oct | yes       | ?      | English                 |                                               |      
 
 
 ## Other lists - 
