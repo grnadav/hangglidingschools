@@ -1,5 +1,8 @@
 # Hang gliding schools
 
+A much better page, that includes most (but not all...) of the instructors on this list. With map to see where each is at, and more info on Hang Gliding:
+[http://www.hangglidingflightschool.com/](http://www.hangglidingflightschool.com/)
+
 This page: 
 [https://grnadav.github.io/hangglidingschools](https://grnadav.github.io/hangglidingschools)
 
